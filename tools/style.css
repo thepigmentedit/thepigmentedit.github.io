@@ -29,12 +29,13 @@ body {
     width: 100%;
     height: 100%;
     display: table;
+	background: url(../images/background.jpg) no-repeat  bottom center fixed; 
 }
 /*
 html{
 	background-color: #08233e;
 }
-	*/
+*/
 
 
 
@@ -55,7 +56,7 @@ float: left;
 bottom: 0%;
 position: absolute;
 z-index: -1;
-background: url(../images/background.jpg) no-repeat top center fixed; 
+
 opacity: 0.2;
 -webkit-background-size: cover;
 -moz-background-size: cover;

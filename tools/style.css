@@ -30,6 +30,9 @@ body {
     height: 100%;
     display: table;
 	/*background: url(../images/background.jpg) no-repeat  bottom center fixed;*/ 
+	background:#ebebed;
+	background: -webkit-linear-gradient(to bottom, #ffffff , #ebebed);
+	background: repeating-linear-gradient(to bottom, #ffffff , #ebebed);
 }
 /*
 html{
